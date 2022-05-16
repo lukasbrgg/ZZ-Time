@@ -20,7 +20,7 @@ services:
     ports:
       - 5555:80
     environment:
-      PGADMIN_DEFAULT_EMAIL: naglergabriel.gn@gmail.com
+      PGADMIN_DEFAULT_EMAIL: lukas.brugger404@gmail.com
       PGADMIN_DEFAULT_PASSWORD: admin
     restart: unless-stopped
 
